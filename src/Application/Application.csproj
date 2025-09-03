@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>WarehouseManger.Application</RootNamespace>
+	  <TargetFramework>net8.0</TargetFramework>
+	  <RootNamespace>WarehouseManger.Application</RootNamespace>
     <AssemblyName>WarehouseManger.Application</AssemblyName>
   </PropertyGroup>
   <ItemGroup>

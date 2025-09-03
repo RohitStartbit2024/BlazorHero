@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
-    <BlazorWebAssemblyLoadAllGlobalizationData>true</BlazorWebAssemblyLoadAllGlobalizationData>
+	  <TargetFramework>net8.0</TargetFramework>
+	  <BlazorWebAssemblyLoadAllGlobalizationData>true</BlazorWebAssemblyLoadAllGlobalizationData>
     <RootNamespace>WarehouseManger.Client</RootNamespace>
     <AssemblyName>WarehouseManger.Client</AssemblyName>
   </PropertyGroup>
