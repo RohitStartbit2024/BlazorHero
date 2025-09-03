@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/obj/Docker
+/src/Application/bin/Debug/net5.0
+/src/Application/obj
+/src/Client/bin/Debug/net5.0
+/src/Client/obj
+/src/Client/Properties
+/src/Client.Infrastructure/bin/Debug/net5.0
+/src/Client.Infrastructure/obj
+/src/Domain/bin/Debug/net5.0
+/src/Domain/obj
+/src/Infrastructure/bin/Debug/net5.0
+/src/Infrastructure/Migrations
+/src/Infrastructure/obj
+/src/Infrastructure.Shared/bin/Debug/net5.0
+/src/Infrastructure.Shared/obj
+/src/Server/bin/Debug/net5.0
+/src/Server/obj
+/src/Shared/bin/Debug/net5.0
+/src/Shared/obj

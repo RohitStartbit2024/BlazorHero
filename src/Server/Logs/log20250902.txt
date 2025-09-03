@@ -1,0 +1,14 @@
+2025-09-02 16:42:25.213 +05:30 [INF] Seeded Administrator Role.
+2025-09-02 16:42:25.453 +05:30 [INF] Seeded Default SuperAdmin User.
+2025-09-02 16:42:25.878 +05:30 [INF] Seeded Basic Role.
+2025-09-02 16:42:25.899 +05:30 [INF] Seeded User with Basic Role.
+2025-09-02 16:42:26.130 +05:30 [INF] Now listening on: https://localhost:5001
+2025-09-02 16:42:26.134 +05:30 [INF] Now listening on: http://localhost:5000
+2025-09-02 16:42:26.137 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-02 16:42:26.137 +05:30 [INF] Hosting environment: Development
+2025-09-02 16:42:26.138 +05:30 [INF] Content root path: D:\Rohit Ag\WarehouseManger\src\Server
+2025-09-02 17:34:03.541 +05:30 [INF] Now listening on: https://localhost:5001
+2025-09-02 17:34:03.585 +05:30 [INF] Now listening on: http://localhost:5000
+2025-09-02 17:34:03.589 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-02 17:34:03.590 +05:30 [INF] Hosting environment: Development
+2025-09-02 17:34:03.590 +05:30 [INF] Content root path: D:\Rohit Ag\WarehouseManger\src\Server
